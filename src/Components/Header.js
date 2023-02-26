@@ -41,11 +41,13 @@ export default Header
 
 const Nav=styled.nav`
 //width:100%;
-height:70px;
-// position:fixed; 
-// top:0;
-//  left:0;
-//   right:0;
+height:80px;
+//position:fixed; 
+/* top:0;
+ left:0;
+  right:0; */
+  margin-left: 0px;
+  margin-right: 0px;
 display:flex;
 align-items:center;
 background-color:#090b13;
