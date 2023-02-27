@@ -53,6 +53,8 @@ align-items:center;
 background-color:#090b13;
 padding:0 36px;
 cursor:pointer;
+
+overflow-x: hidden;
 `
 const Logo=styled.img`
 width:70px;
